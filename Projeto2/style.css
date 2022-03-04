@@ -1,0 +1,50 @@
+.form-group {
+    text-align: center;
+}
+.collapse {
+    white-space: nowrap;
+}
+
+.fa-solid{
+    width: 15px;
+    margin-top: 15px;
+    color: #ddd;
+}
+
+.nav-link {
+    margin-right: 10px;
+    display: inline;
+    padding-top: 0;
+}
+
+#telaLogin {
+    width: 300px;
+    background-color: #eee;
+}
+
+.login  {
+    border: 1px solid #ddd;
+    border-radius: 2%;
+}
+
+.input {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    background-color: white;
+}
+
+input{
+    border: 1px solid #ddd;
+    border-radius: 5%;
+    width: 90%;
+}
+
+
+
+
+
+
+
+
+
